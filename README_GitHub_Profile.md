@@ -1,6 +1,6 @@
-# 👋🏽 Hi, I'm Covenant Augustine Usanga
+# 👋🏽 Hi, I'm Covenant 
 
-I'm an International Medical Doctor and emerging Data Scientist passionate about using data to solve global challenges—from healthcare to climate change and beyond. With a clinical background and growing technical skillset, I blend human insight with analytical tools to drive forward-looking solutions.
+I'm an International Medical Doctor and emerging Data Scientist passionate about using data to solve global challenges,from healthcare to climate change and beyond. With a clinical background and growing technical skillset, I blend human insight with analytical tools to drive forward-looking solutions.
 
 ---
 
