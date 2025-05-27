@@ -30,7 +30,7 @@ Examines astronaut records to explore how space travel impacts human health usin
 
 - Bachelor of Clinical Medicine & Surgery (MBBS) (P.R. China)  
 - Postgraduate Degree, Healthcare Administration (ON, Canada) 
-- Postgraduate Diploma, Data Science (Remote, Canada)
+- Postgraduate Diploma, Data Science (ON, Canada)
 
 ---
 
