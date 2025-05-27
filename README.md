@@ -29,13 +29,12 @@ Examines astronaut records to explore how space travel impacts human health usin
 ## 📘 Background
 
 - Bachelor of Clinical Medicine & Surgery (MBBS) (P.R. China)  
-- Postgraduate Diploma, Healthcare Administration (Ontario, Canada) 
-- Postgraduate Diploma, PSW (Ontario,Canada) 
-- Postgraduate Diploma, Data Science (Remote)
+- Postgraduate Degree, Healthcare Administration (ON, Canada) 
+- Postgraduate Diploma, Data Science (Remote, Canada)
 
 ---
 
-## 📬 Contact
+## 📬 Contact 
 
 - GitHub: [@c-ipynb](https://github.com/c-ipynb)  
 - Email: covenant.usanga@yahoo.com
