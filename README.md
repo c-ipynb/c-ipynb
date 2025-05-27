@@ -1,15 +1,50 @@
-## Hi there 👋
+## 👋🏽 Welcome to My GitHub
 
-<!--
-**c-ipynb/c-ipynb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+International Medical Doctor and emerging Data Scientist with academic and clinical experience, currently transitioning into research and analytical roles across healthcare, technology, and public domains. Highly motivated to contribute to data-driven projects through collaborative research, technical writing and multi-disciplinary inquiry. Adaptable, detail-oriented, and open to hybrid or remote opportunities across academic, healthcare and innovative sectors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## 🚀 Projects
+
+### 🔋 [Climate Cost Predictor](https://github.com/c-ipynb/climate-cost-predictor)  
+Uses climate and electricity data to model how temperature changes influence household energy consumption.
+
+### 🏥 [ER Trend Analysis](https://github.com/c-ipynb/ER-Trend-Analysis)  
+Analyzes emergency room data to explore wait time patterns and build predictive models for hospital operations.
+
+### 👨🏽‍🚀 [Space Health Explorer](https://github.com/c-ipynb/Space-Health-Explorer)  
+Examines astronaut records to explore how space travel impacts human health using Python and regression.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
+- **Tools:** GitHub, Jupyter, Google Colab, Excel  
+- **Focus Areas:** Data Analysis, Machine Learning, Healthcare Systems, Public Impact
+
+---
+
+## 📘 Background
+
+- Bachelor of Clinical Medicine & Surgery (MBBS) (P.R. China)  
+- Postgraduate Diploma, Healthcare Administration (Ontario, Canada) 
+- Postgraduate Diploma, PSW (Ontario,Canada) 
+- Postgraduate Diploma, Data Science (Remote)
+
+---
+
+## 📬 Contact
+
+- GitHub: [@c-ipynb](https://github.com/c-ipynb)  
+- Email: covenant.usanga@yahoo.com
+
+---
+
+Thanks for visiting my GitHub — where passion meets precision.
+)
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
