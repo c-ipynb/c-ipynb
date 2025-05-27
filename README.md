@@ -43,9 +43,3 @@ Examines astronaut records to explore how space travel impacts human health usin
 ---
 
 Thanks for visiting my GitHub — where passion meets precision.
-)
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
