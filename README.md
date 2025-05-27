@@ -37,7 +37,7 @@ Examines astronaut records to explore how space travel impacts human health usin
 ## 📬 Contact 
 
 - GitHub: [@c-ipynb](https://github.com/c-ipynb)  
-- Email: covenant.usanga@yahoo.com
+- Email: c.ovenant@tutanota.com
 
 ---
 
